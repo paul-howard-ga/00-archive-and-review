@@ -1,6 +1,6 @@
 ### Course Outline
 #### Week 1: Fundamentals
-- Day 1: Command Line Basics; Git Basics
+- [[Day 1: Command Line Basics; Git Basics|Day01]]
 - Day 2: JavaScript Basics: Primitives & Control Flow
 - Day 3: JavaScript Basics: Functions
 - Day 4: Intro to Bootstrap; Intro to DOM & Events
