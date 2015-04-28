@@ -1,7 +1,7 @@
 #### [[Course Outline|Home]]
 ---
 #### Week 1: Fundamentals
-- D1: Command Line; Git
+- [[D1: Command Line; Git|Day01]]
 - D2: JS Primitives & Control Flow
 - D3: JS Functions
 - D4: Bootstrap; DOM & Events
