@@ -1,9 +1,9 @@
 #### Week 1: Fundamentals
-- Day 1: Command Line Basics; Git Basics
-- Day 2: JavaScript Basics: Primitives & Control Flow
-- Day 3: JavaScript Basics: Functions
-- Day 4: Intro to Bootstrap; Intro to DOM & Events
-- Day 5: ??
+- D1: Command Line; Git
+- D2: JS Primitives & Control Flow
+- D3: JS Functions
+- D4: Bootstrap; DOM & Events
+- D5: ??
 
 #### Week 2: "Advanced" Javascript
 - Day 6: Intro to jQuery
