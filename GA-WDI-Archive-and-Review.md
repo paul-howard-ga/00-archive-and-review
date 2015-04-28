@@ -1,5 +1,3 @@
-# GA WDI Archive and Review
-
 ## Course Outline
 ### Week 1: Fundamentals
 ### Week 2: Advanced Javascript
