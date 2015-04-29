@@ -1,4 +1,3 @@
-
 | Week 1: Fundamentals |
 |---|
 | [[D1: Command Line; Git|Day01]] |
@@ -9,25 +8,26 @@
 
 | Week 2: "Advanced" Javascript |
 | --- |
-| Day 6: Intro to jQuery |
-| Day 7: Intro to Functional Programming; Intro to TDD; Intro to OOP |
-| Day 8: Review of JavaScript Concepts |
+| [[D6: Intro to jQuery|Day06]] |
+| [[D7: Intro to Functional Programming; Intro to TDD; Intro to OOP|Day07]] |
+| [[D8: Review of JavaScript Concepts|Day08]] |
+| *Thanksgiving Break* |
 
 | Week 3: Intro to Web Apps |
 |---|
-| Day 9: Intro to Express; Intro to NPM |
-| Day 10: Express API |
-| Day 11: SQL |
-| Day 12: Sequelize (ORM) |
-| Day 13: Heroku |
+| D9: Intro to Express; Intro to NPM |
+| D10: Express API |
+| D11: SQL |
+| D12: Sequelize (ORM) |
+| D13: Heroku |
 
 | Week 4: Production Ready |
 |---|
-| Day 14: Intro to AJAX |
-| Day 15: Model Associations (Sequelize) |
-| Day 16: Intro to Authentication: Sessions, Encryption, Middleware, Hooks |
-| Day 17: ?? |
-| Day 18: API Key Safety |
+| D14: Intro to AJAX |
+| D15: Model Associations (Sequelize) |
+| D16: Intro to Authentication: Sessions, Encryption, Middleware, Hooks |
+| D17: ?? |
+| D18: API Key Safety |
 
 | Week 5: Project Week #1 |
 |---|
@@ -35,19 +35,19 @@
 
 | Week 6: Intro to Ruby |
 |---|
-| Day 24: Intro to Ruby: History, Data Types, Operators, Control Flow, Functions |
-| Day 25: Intro to Classes |
-| Day 26: Classes & Inheritance; Testing with rSpec |
-| Day 27: Intro to Rails |
-| Day 28: Creating RESTful APIs in Rails |
+| D24: Intro to Ruby: History, Data Types, Operators, Control Flow, Functions |
+| D25: Intro to Classes |
+| D26: Classes & Inheritance; Testing with rSpec |
+| D27: Intro to Rails |
+| D28: Creating RESTful APIs in Rails |
 
 | Week 7: More Rails |
 |---|
-| Day 29: Model Associations in Rails; Authentication in Rails |
-| Day 30: Review |
-| Day 31: Many-to-Many Associations in Rails |
-| Day 32: Polymorphic Associations |
-| Day 33: Data Scraping with Nokogiri; Password Reset Flow & Rails Mailers |
+| D29: Model Associations in Rails; Authentication in Rails |
+| D30: Review |
+| D31: Many-to-Many Associations in Rails |
+| D32: Polymorphic Associations |
+| D33: Data Scraping with Nokogiri; Password Reset Flow & Rails Mailers |
 
 | Week 8 & 9: Project #2: SeahawkCity |
 |---|
@@ -55,19 +55,19 @@
   
 | Week 10: Angular |
 |---|
-| Day 43: |
-| Day 44: |
-| Day 45: |
-| Day 46: |
-| Day 47: |
+| D43: |
+| D44: |
+| D45: |
+| D46: |
+| D47: |
 
 | Week 11: Angular Interview |
 |---|
-| Day 48: |
-| Day 49: |
-| Day 50: |
-| Day 51: |
-| Day 52: |
+| D48: |
+| D49: |
+| D50: |
+| D51: |
+| D52: |
 
 | Week 12: Project Week 3 |
 |---|
