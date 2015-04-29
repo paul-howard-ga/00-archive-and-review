@@ -1,4 +1,4 @@
-###### Tuesday, 17 November 2014 (02/60)
+###### Tuesday, 18 November 2014 (02/60)
 ---
 ### Official Notes:
 - [Javascript Primitives](https://github.com/paul-howard-ga/00-class-notes/tree/master/week_01_fundamentals/day_02_intro_to_js/dawn_js_primatives)
