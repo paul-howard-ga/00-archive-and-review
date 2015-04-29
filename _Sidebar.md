@@ -1,33 +1,33 @@
 | Week 1: Fundamentals |
 |---|
-| [[D1: Command Line; Git|Day01]] |
+| [[D1: Command Line; Git]] |
 | [[D2: JS Primitives & Control Flow]] |
 | [[D3: JS Functions]] |
-| [[D4: Bootstrap; DOM & Events|Day]] |
-| [[D5: ??|Day05]] |
+| [[D4: Bootstrap; DOM & Events]] |
+| [[D5: ??]] |
 
 | Week 2: "Advanced" Javascript |
 | --- |
-| [[D6: Intro to jQuery|Day06]] |
-| [[D7: Intro to Functional Programming; Intro to TDD; Intro to OOP|Day07]] |
-| [[D8: Review of JavaScript Concepts|Day08]] |
+| [[D6: Intro to jQuery]] |
+| [[D7: Intro to Functional Programming; Intro to TDD; Intro to OOP]] |
+| [[D8: Review of JavaScript Concepts]] |
 | *Thanksgiving Break* |
 
 | Week 3: Intro to Web Apps |
 |---|
-| D9: Intro to Express; Intro to NPM |
-| D10: Express API |
-| D11: SQL |
-| D12: Sequelize (ORM) |
-| D13: Heroku |
+| [[D9: Intro to Express; Intro to NPM]] |
+| [[D10: Express API]] |
+| [[D11: SQL]] |
+| [[D12: Sequelize (ORM)]] |
+| [[D13: Heroku]] |
 
 | Week 4: Production Ready |
 |---|
-| D14: Intro to AJAX |
-| D15: Model Associations (Sequelize) |
-| D16: Intro to Authentication: Sessions, Encryption, Middleware, Hooks |
-| D17: ?? |
-| D18: API Key Safety |
+| [[D14: Intro to AJAX]] |
+| [[D15: Model Associations (Sequelize)]] |
+| [[D16: Intro to Authentication: Sessions, Encryption, Middleware, Hooks]] |
+| [[D17: ??]] |
+| [[D18: API Key Safety]] |
 
 | Week 5: Project Week #1 |
 |---|
@@ -35,19 +35,19 @@
 
 | Week 6: Intro to Ruby |
 |---|
-| D24: Intro to Ruby: History, Data Types, Operators, Control Flow, Functions |
-| D25: Intro to Classes |
-| D26: Classes & Inheritance; Testing with rSpec |
-| D27: Intro to Rails |
-| D28: Creating RESTful APIs in Rails |
+| [[D24: Intro to Ruby: History, Data Types, Operators, Control Flow, Functions]] |
+| [[D25: Intro to Classes]] |
+| [[D26: Classes & Inheritance; Testing with rSpec]] |
+| [[D27: Intro to Rails]] |
+| [[D28: Creating RESTful APIs in Rails]] |
 
 | Week 7: More Rails |
 |---|
-| D29: Model Associations in Rails; Authentication in Rails |
-| D30: Review |
-| D31: Many-to-Many Associations in Rails |
-| D32: Polymorphic Associations |
-| D33: Data Scraping with Nokogiri; Password Reset Flow & Rails Mailers |
+| [[D29: Model Associations in Rails; Authentication in Rails]] |
+| [[D30: Review]] |
+| [[D31: Many-to-Many Associations in Rails]] |
+| [[D32: Polymorphic Associations]] |
+| [[D33: Data Scraping with Nokogiri; Password Reset Flow & Rails Mailers]] |
 
 | Week 8 & 9: Project #2: SeahawkCity |
 |---|
