@@ -29,9 +29,13 @@
 | [[D17: ??]] |
 | [[D18: API Key Safety]] |
 
-| Week 5: Project Week #1 |
+| Week 5: Project #1: The Collector |
 |---|
-| Days 19 - 23 |
+| [[D19: Project Week]] |
+| [[D20: Project Week]] |
+| [[D21: Project Week]] |
+| [[D22: Project Week]] |
+| [[D23: Project Week]] |
 
 | Week 6: Intro to Ruby |
 |---|
@@ -52,7 +56,7 @@
 | Week 8 & 9: Project #2: SeahawkCity |
 |---|
 | Days 34-42 |
-  
+
 | Week 10: Angular |
 |---|
 | D43: |
